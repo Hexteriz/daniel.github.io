@@ -1,16 +1,44 @@
 ---
-title: "Welcome!"
+title: "Profile"
 ---
 
-# Hello, I'm Daniel!
+# Daniel Tay
 
-::: {style="float:left; position: relative; top: 0px"}
-![](img/Profile.jpeg){height="140px" style="margin-right: 15px; align: left"}
+::: {style="display:flex; align-items:flex-start; gap:20px;"}
+![](img/Profile.jpeg){height="140px" style="border-radius: 4px;"}
+
+::: {style="font-size: 0.95rem;"}
+**Student, Information and Communications Technology**  
+Singapore Institute of Technology (SIT)  
+
+Temasek Polytechnic alumni with an interest in data, technology, and applied learning.  
+Focused on using data and simple tools to improve real‑world processes.
+
+You can find more of my work here:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhu-hao-daniel/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hexteriz)
 :::
-I am a student at the Singapore Institute of Technology (SIT), interested in data, technology, and applied learning.  
-This website showcases some of my past projects, a data visualization example, and my reflection on using GenAI tools.
+:::
 
+---
 
-- Final Year Project (or other project) overview.
-- One data visualization project from my student life.
-- Reflection on how GenAI supported the development of this webpage.
+## Bio
+
+I am currently studying at SIT, after completing my diploma at Temasek Polytechnic.  
+My interests are in data analytics, simple automation, and applying technology to areas like supply chain and inventory management.
+
+## Education
+
+- **Singapore Institute of Technology** – ICT student  
+- **Temasek Polytechnic** – Diploma related to supply chain / logistics  
+
+## Experience
+
+- **Final Year Project (Temasek Polytechnic)** – Worked in a team of four to explore ways to improve inventory management and overall supply chain efficiency.  
+- **Stock analysis dashboard** – Built a dashboard that visualises stock performance and trading decisions using quantitative data.
+
+## Interests
+
+- Data visualisation and dashboards  
+- Programming with Python  
+

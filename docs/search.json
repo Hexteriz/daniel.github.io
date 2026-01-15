@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome!",
+    "title": "Profile",
     "section": "",
-    "text": "Hello, I’m Daniel!\n\n\n\nI am a student at the Singapore Institute of Technology (SIT), interested in data, technology, and applied learning.\nThis website showcases some of my past projects, a data visualization example, and my reflection on using GenAI tools.\n\nFinal Year Project (or other project) overview.\nOne data visualization project from my student life.\nReflection on how GenAI supported the development of this webpage."
+    "text": "Student, Information and Communications Technology\nSingapore Institute of Technology (SIT)\nTemasek Polytechnic alumni with an interest in data, technology, and applied learning.\nFocused on using data and simple tools to improve real‑world processes.\nYou can find more of my work here:\n \n\n\n\n\n\nI am currently studying at SIT, after completing my diploma at Temasek Polytechnic.\nMy interests are in data analytics, simple automation, and applying technology to areas like supply chain and inventory management.\n\n\n\n\nSingapore Institute of Technology – ICT student\n\nTemasek Polytechnic – Diploma related to supply chain / logistics\n\n\n\n\n\nFinal Year Project (Temasek Polytechnic) – Worked in a team of four to explore ways to improve inventory management and overall supply chain efficiency.\n\nStock analysis dashboard – Built a dashboard that visualises stock performance and trading decisions using quantitative data.\n\n\n\n\n\nData visualisation and dashboards\n\nProgramming with Python"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "FYP Project",
     "section": "",
-    "text": "Project Overview\nI am a Temasek Polytechnic alumni and my Final Year Project explored ways to improve inventory management and overall supply chain efficiency.\nWe wanted to reduce delays, avoid stockouts, and make daily operations smoother for businesses.\n\nFocus: Practical ideas to improve inventory workflows and tracking.\nTime period: Aug 2022 – Mar 2023\nTeam: Group of 4\n\n\n\nMethodology (how we did it)\n\nData collection and research\nWe studied existing supply chain practices and gathered information from reports, sites, and interviews to understand common problems.\nChallenges of implementing solutions\nWe had to balance cost, staff training, and how easily new ideas could fit into existing systems.\nTemplate showcase room\nWe built a small “showcase room” concept to demonstrate how our proposed solutions could look and work in a real setting, using layouts and simple visuals."
+    "text": "I was a Temasek Polytechnic alumni and my Final Year Project focused on improving inventory management and overall supply chain efficiency.\nTogether with my group mates, we looked for practical ways to reduce delays, avoid stockouts, and make day‑to‑day operations smoother for businesses.\n\nTime period: Aug 2022 – Mar 2023\n\nTeam: Group of 4\n\nRole: Data gathering, analysis, and helping to design the proposed workflow\n\n\n\n\n\nData collection and research\nWe reviewed articles and case studies on supply chain optimisation and spoke with staff to understand pain points such as inaccurate stock levels and manual tracking.\nExploring solutions and challenges\nWe compared different ideas (better barcode usage, clearer reorder rules, simple tracking tools) while considering cost, training, and how easily they could fit into existing processes.\nShowcase room concept\nTo present our ideas, we designed a small “template showcase room” layout that demonstrated how the proposed solutions might look in a real storeroom or warehouse, using example shelves, labels, and simple process diagrams.\n\n\n\n\n\n\nEven small changes in workflow and visibility can make a big difference to inventory accuracy.\n\nTechnical solutions only work if they match how people actually work on the ground, so communication with end‑users is important."
   },
   {
     "objectID": "Data Visualization.html#the-graph",
@@ -32,7 +32,7 @@
     "href": "Data Visualization.html",
     "title": "Data Visualization",
     "section": "",
-    "text": "This page presents one quantitative data visualization I created during my studies.\n\n\nYou can view the full code for this visualization on my GitHub repository.\n\n\n\n\n\nThe top panel tracks my total number of trades, realised profit and loss, and win rate over the semester.\nThe line charts show daily price movements and indicators for different stocks.\nThe bottom panel visualizes my buy and sell points, which helped me reflect on my trading decisions."
+    "text": "This page shares one visualization work that my group and I created during our student life.\nThe example uses a dashboard to visualise quantitative stock data with multiple graphs."
   },
   {
     "objectID": "Reflection.html",
@@ -82,5 +82,138 @@
     "title": "Reflection on the use of GenAI",
     "section": "What I learned",
     "text": "What I learned\nAt the same time, I realised I still had to understand what I was doing. When something did not work, I had to check the code, compare it with my files, and make my own decisions. Going forward, I expect to use GenAI in a similar way: as a quick helper for ideas and troubleshooting, while I remain responsible for the final work and my own understanding."
+  },
+  {
+    "objectID": "index.html#what-i-am-interested-in",
+    "href": "index.html#what-i-am-interested-in",
+    "title": "Profile",
+    "section": "",
+    "text": "Working with data (cleaning, visualising, and interpreting results).\n\nLearning practical tools like R, Python, and SQL.\n\nUnderstanding how technology can improve real‑world operations, especially in logistics and supply chain."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Profile",
+    "section": "",
+    "text": "Final Year Project: Explored ways to improve inventory management and supply chain efficiency as part of a team of four.\n\nData Visualization: Built a stock analysis dashboard to track performance and visualise trading decisions.\n\nMore examples of my work can be found on my GitHub profile."
+  },
+  {
+    "objectID": "index.html#short-bio",
+    "href": "index.html#short-bio",
+    "title": "Profile",
+    "section": "",
+    "text": "I am currently studying at SIT, after completing my diploma at Temasek Polytechnic.\nMy interests are in data analytics, simple automation, and applying technology to areas like supply chain and inventory management. [web:111]"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Profile",
+    "section": "",
+    "text": "Singapore Institute of Technology – ICT student\n\nTemasek Polytechnic – Diploma related to supply chain / logistics"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Profile",
+    "section": "",
+    "text": "Final Year Project (Temasek Polytechnic) – Worked in a team of four to explore ways to improve inventory management and overall supply chain efficiency.\n\nStock analysis dashboard – Built a dashboard that visualises stock performance and trading decisions using quantitative data."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Profile",
+    "section": "",
+    "text": "Data visualisation and dashboards\n\nProgramming with Python"
+  },
+  {
+    "objectID": "about.html#methodology-how-we-did-it",
+    "href": "about.html#methodology-how-we-did-it",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Data collection and research\nWe reviewed articles and case studies on supply chain optimisation and spoke with staff to understand pain points such as inaccurate stock levels and manual tracking.\nExploring solutions and challenges\nWe compared different ideas (better barcode usage, clearer reorder rules, simple tracking tools) while considering cost, training, and how easily they could fit into existing processes.\nShowcase room concept\nTo present our ideas, we designed a small “template showcase room” layout that demonstrated how the proposed solutions might look in a real storeroom or warehouse, using example shelves, labels, and simple process diagrams."
+  },
+  {
+    "objectID": "about.html#key-takeaways",
+    "href": "about.html#key-takeaways",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Even small changes in workflow and visibility can make a big difference to inventory accuracy.\n\nTechnical solutions only work if they match how people actually work on the ground, so communication with end‑users is important."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Profile",
+    "section": "",
+    "text": "I am currently studying at SIT, after completing my diploma at Temasek Polytechnic.\nMy interests are in data analytics, simple automation, and applying technology to areas like supply chain and inventory management."
+  },
+  {
+    "objectID": "Data Visualization.html#stockie-stock-analysis-dashboard",
+    "href": "Data Visualization.html#stockie-stock-analysis-dashboard",
+    "title": "Data Visualization",
+    "section": "Stockie – Stock Analysis Dashboard",
+    "text": "Stockie – Stock Analysis Dashboard\nYou can view the full code for this visualization on our\nGitHub repository."
+  },
+  {
+    "objectID": "Data Visualization.html#what-is-visualised",
+    "href": "Data Visualization.html#what-is-visualised",
+    "title": "Data Visualization",
+    "section": "What is visualised",
+    "text": "What is visualised\n\nThe summary section at the top shows numeric indicators such as number of trades, realised profit or loss, and win rate for the period.\n\nThe time‑series charts display stock prices, indicators, and trading volume over time, so each point on the graph represents a specific numerical value on a given date.\n\nThe bottom chart marks our buy and sell points, allowing us to see exactly where trades happened along the price curve."
+  },
+  {
+    "objectID": "Data Visualization.html#story-and-rationale",
+    "href": "Data Visualization.html#story-and-rationale",
+    "title": "Data Visualization",
+    "section": "Story and rationale",
+    "text": "Story and rationale\nOur group created this dashboard to review our trading behaviour and understand how our decisions affected performance.\nWe chose a line‑based time‑series layout because it clearly shows trends and volatility over time, which is important for stock data.\nPlacing summary statistics above and detailed graphs below lets us quickly check overall results first, then drill down into individual trades to see whether our entries and exits were well‑timed or need improvement."
+  },
+  {
+    "objectID": "about.html#how-the-project-was-done",
+    "href": "about.html#how-the-project-was-done",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Data collection and research\nWe reviewed articles and case studies on supply chain optimisation and spoke with staff to understand pain points such as inaccurate stock levels and manual tracking.\nExploring solutions and challenges\nWe compared different ideas (better barcode usage, clearer reorder rules, simple tracking tools) while considering cost, training, and how easily they could fit into existing processes.\nShowcase room concept\nTo present our ideas, we designed a small “template showcase room” layout that demonstrated how the proposed solutions might look in a real storeroom or warehouse, using example shelves, labels, and simple process diagrams."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Exercising is my number one hobby. I am part of the calisthenics club at my school and train regularly through running, cycling, swimming, gym work, and everything in between.\nI love exercising because it gives me a sense of purpose and keeps me healthy and fit. One of my goals is to master cool calisthenics moves like the muscle up, which requires months of consistent training and discipline.\nHere’s a quick clip of me training: \nWhat I do: - Train at the gym 4-5 times a week, focusing on strength and calisthenics progression - Run and cycle on weekends for cardio and outdoor fitness - Swim occasionally to mix up my routine and build endurance - Track my progress and set new fitness goals regularly\n\n\n\n\nI am passionate about the stock market and day trading. I follow market trends daily, research companies, and actively trade to improve my skills and understanding of how the market works.\nBecause of this interest, I built a coding project to track my trading analytics. The dashboard shows metrics like profitability by hour, PnL (profit and loss), win rate, and other key statistics so I can review my trading decisions and improve over time.\nWhat I do: - Trade stocks daily and review my decisions - Research companies and market trends - Maintain a trading journal and analyse my performance - Build tools to visualise and track trading metrics\n\n\n\n\nBoth hobbies teach me discipline and consistency. Fitness reminds me that small daily efforts add up to big results, and trading teaches me that patience and learning from mistakes are just as important as getting wins."
+  },
+  {
+    "objectID": "hobbies.html#calisthenics-fitness",
+    "href": "hobbies.html#calisthenics-fitness",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Exercising is my number one hobby. I am part of the calisthenics club at my school and train regularly through running, cycling, swimming, gym work, and everything in between.\nI love exercising because it gives me a sense of purpose and keeps me healthy and fit. One of my goals is to master cool calisthenics moves like the muscle up, which requires months of consistent training and discipline.\nHere’s a quick clip of me training: \nWhat I do: - Train at the gym 4-5 times a week, focusing on strength and calisthenics progression - Run and cycle on weekends for cardio and outdoor fitness - Swim occasionally to mix up my routine and build endurance - Track my progress and set new fitness goals regularly"
+  },
+  {
+    "objectID": "hobbies.html#stock-trading-investing",
+    "href": "hobbies.html#stock-trading-investing",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I am passionate about the stock market and day trading. I follow market trends daily, research companies, and actively trade to improve my skills and understanding of how the market works.\nBecause of this interest, I built a coding project to track my trading analytics. The dashboard shows metrics like profitability by hour, PnL (profit and loss), win rate, and other key statistics so I can review my trading decisions and improve over time.\nWhat I do: - Trade stocks daily and review my decisions - Research companies and market trends - Maintain a trading journal and analyse my performance - Build tools to visualise and track trading metrics"
+  },
+  {
+    "objectID": "hobbies.html#why-these-hobbies-matter",
+    "href": "hobbies.html#why-these-hobbies-matter",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Both hobbies teach me discipline and consistency. Fitness reminds me that small daily efforts add up to big results, and trading teaches me that patience and learning from mistakes are just as important as getting wins."
+  },
+  {
+    "objectID": "Data Visualization.html#context",
+    "href": "Data Visualization.html#context",
+    "title": "Data Visualization",
+    "section": "Context",
+    "text": "Context\nOur group created this dashboard to analyse stock trends. We chose a line‑based time‑series layout because it clearly shows trends and volatility over time, which is important for stock data.\nPlacing summary statistics above and detailed graphs below lets us quickly check overall results first, then drill down into individual trades to see whether our entries and exits were well‑timed or need improvement."
+  },
+  {
+    "objectID": "Data Visualization.html#how-we-built-it",
+    "href": "Data Visualization.html#how-we-built-it",
+    "title": "Data Visualization",
+    "section": "How we built it",
+    "text": "How we built it\nThe dashboard uses Python and Plotly for interactive charts. Here’s a sample:\nimport plotly.graph_objects as go\n\n# Create candlestick chart\nfig = go.Figure(data=[go.Candlestick(\n    x=df['Date'],\n    open=df['Open'],\n    high=df['High'],\n    low=df['Low'],\n    close=df['Close']\n)])\nfig.show()"
   }
 ]

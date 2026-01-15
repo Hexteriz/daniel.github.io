@@ -2,22 +2,42 @@
 title: "Data Visualization"
 ---
 
-# A Visualization project I made together with my Group mate
+This page shares one visualization work that my group and I created during our student life.  
+The example uses a dashboard to visualise quantitative stock data with multiple graphs.
 
-This page presents one **quantitative data visualization** I created during my studies.
+## Stockie – Stock Analysis Dashboard
 
-## Stockie
-
-You can view the full code for this visualization on my
+You can view the full code for this visualization on our  
 [GitHub repository](https://github.com/Hexteris/Stock-Analysis-Y1T1).
 
+![](img/Datavis.png){width=95%}
 
-![](img/Datavis.png){width=90%}
-    
-    
-## My group and I created a stock visualization web app:
-  
-- The top panel tracks my total number of trades, realised profit and loss, and win rate over the semester.
-- The line charts show daily price movements and indicators for different stocks.
-- The bottom panel visualizes my buy and sell points, which helped me reflect on my trading decisions.
+## What is visualised
 
+- The summary section at the top shows numeric indicators such as number of trades, realised profit or loss, and win rate for the period.  
+- The time‑series charts display stock prices, indicators, and trading volume over time, so each point on the graph represents a specific numerical value on a given date.  
+- The bottom chart marks our buy and sell points, allowing us to see exactly where trades happened along the price curve.
+
+## How we built it
+
+The dashboard uses Python and Plotly for interactive charts. Here's a sample:
+
+```python
+import plotly.graph_objects as go
+
+# Create candlestick chart
+fig = go.Figure(data=[go.Candlestick(
+    x=df['Date'],
+    open=df['Open'],
+    high=df['High'],
+    low=df['Low'],
+    close=df['Close']
+)])
+fig.show()
+```
+
+## Context
+
+Our group created this dashboard to analyse stock trends.
+We chose a line‑based time‑series layout because it clearly shows trends and volatility over time, which is important for stock data.  
+Placing summary statistics above and detailed graphs below lets us quickly check overall results first, then drill down into individual trades to see whether our entries and exits were well‑timed or need improvement.

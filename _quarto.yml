@@ -3,30 +3,32 @@ project:
   output-dir: docs
   
 website:
-  title: "My website"
+  title: "Daniel Tay"
   favicon: favicon.png
   navbar:
     logo: logo.png
     left:
       - href: index.qmd
         text: Home
+      - href: hobbies.qmd
+        text: Hobbies
       - href: about.qmd
         text: FYP Project
       - href: Data Visualization.qmd
         text: Data Visualization
       - href: Reflection.qmd
         text: Reflection
+    
 
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: [darkly, custom.scss]
     css: styles.css
     toc: true
     toc-depth: 3
     toc-location: left
+    code-fold: true
 
 
 

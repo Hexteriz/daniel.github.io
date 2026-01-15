@@ -1,0 +1,40 @@
+---
+title: "Hobbies"
+---
+
+# My Hobbies
+
+## ![](img/gym.png){height="32px" style="vertical-align:middle"} Calisthenics & Fitness
+
+Exercising is my number one hobby. I am part of the calisthenics club at my school and train regularly through running, cycling, swimming, gym work, and everything in between.
+
+I love exercising because it gives me a sense of purpose and keeps me healthy and fit. One of my goals is to master cool calisthenics moves like the muscle up, which requires months of consistent training and discipline.
+
+Here's a quick clip of me training:
+{{< video https://www.youtube.com/watch?v=RtwQxWaCmTg width="600" height="400" >}}
+
+**What I do:**
+- Train at the gym 4-5 times a week, focusing on strength and calisthenics progression
+- Run and cycle on weekends for cardio and outdoor fitness
+- Swim occasionally to mix up my routine and build endurance
+- Track my progress and set new fitness goals regularly
+
+---
+
+## ![](img/stock-market.png){height="32px" style="vertical-align:middle"} Stock Trading & Investing
+
+I am passionate about the stock market and day trading. I follow market trends daily, research companies, and actively trade to improve my skills and understanding of how the market works.
+
+Because of this interest, I built a coding project to track my trading analytics. The dashboard shows metrics like profitability by hour, PnL (profit and loss), win rate, and other key statistics so I can review my trading decisions and improve over time.
+
+**What I do:**
+- Trade stocks daily and review my decisions
+- Research companies and market trends
+- Maintain a trading journal and analyse my performance
+- Build tools to visualise and track trading metrics
+
+---
+
+## Why These Hobbies Matter
+
+Both hobbies teach me discipline and consistency. Fitness reminds me that small daily efforts add up to big results, and trading teaches me that patience and learning from mistakes are just as important as getting wins.

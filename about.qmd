@@ -4,20 +4,29 @@ title: "FYP Project"
 
 # Project Overview
 
-I am a Temasek Polytechnic alumni and my Final Year Project explored ways to improve inventory management and overall supply chain efficiency.  
-We wanted to reduce delays, avoid stockouts, and make daily operations smoother for businesses.
+I was a Temasek Polytechnic alumni and my Final Year Project focused on improving inventory management and overall supply chain efficiency.  
+Together with my group mates, we looked for practical ways to reduce delays, avoid stockouts, and make day‑to‑day operations smoother for businesses.
 
-- Focus: Practical ideas to improve inventory workflows and tracking.
-- Time period: Aug 2022 – Mar 2023
-- Team: Group of 4
+- Time period: Aug 2022 – Mar 2023  
+- Team: Group of 4  
+- Role: Data gathering, analysis, and helping to design the proposed workflow
 
-# Methodology (how we did it)
+---
+
+## How the project was done
 
 1. **Data collection and research**  
-   We studied existing supply chain practices and gathered information from reports, sites, and interviews to understand common problems.
+   We reviewed articles and case studies on supply chain optimisation and spoke with staff to understand pain points such as inaccurate stock levels and manual tracking.
 
-2. **Challenges of implementing solutions**  
-   We had to balance cost, staff training, and how easily new ideas could fit into existing systems.
+2. **Exploring solutions and challenges**  
+   We compared different ideas (better barcode usage, clearer reorder rules, simple tracking tools) while considering cost, training, and how easily they could fit into existing processes. 
 
-3. **Template showcase room**  
-   We built a small “showcase room” concept to demonstrate how our proposed solutions could look and work in a real setting, using layouts and simple visuals.
+3. **Showcase room concept**  
+   To present our ideas, we designed a small “template showcase room” layout that demonstrated how the proposed solutions might look in a real storeroom or warehouse, using example shelves, labels, and simple process diagrams.
+
+---
+
+## Key Takeaways
+
+- Even small changes in workflow and visibility can make a big difference to inventory accuracy.  
+- Technical solutions only work if they match how people actually work on the ground, so communication with end‑users is important.

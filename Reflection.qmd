@@ -2,7 +2,7 @@
 title: "Reflection on the use of GenAI"
 ---
 
-## How I used GenAI
+## ![](img/artificial-intelligence.png){height="32px" style="vertical-align:middle"} How I used GenAI 
 
 For this website, I used GenAI tools such as Perplexity to guide me through the Quarto setup and to fix issues with the navbar, YAML, and images. They helped me find the right syntax more quickly and suggested clearer ways to structure each page.
 
