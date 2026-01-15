@@ -1,11 +1,16 @@
 ---
-title: "temp_website"
+title: "Welcome!"
 ---
 
-This is a Quarto website.
+# Hello, I'm Daniel!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {style="float:left; position: relative; top: 0px"}
+![](img/Profile.jpeg){height="140px" style="margin-right: 15px; align: left"}
+:::
+I am a student at the Singapore Institute of Technology (SIT), interested in data, technology, and applied learning.  
+This website showcases some of my past projects, a data visualization example, and my reflection on using GenAI tools.
 
-```{r}
-1 + 1
-```
+
+- Final Year Project (or other project) overview.
+- One data visualization project from my student life.
+- Reflection on how GenAI supported the development of this webpage.

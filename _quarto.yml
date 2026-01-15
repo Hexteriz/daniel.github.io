@@ -3,14 +3,20 @@ project:
   output-dir: docs
   
 website:
-  title: "temp_website"
+  title: "My website"
   favicon: favicon.png
   navbar:
     logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: FYP Project
+      - href: Data Visualization.qmd
+        text: Data Visualization
+      - href: Reflection.qmd
+        text: Reflection
+
 
 format:
   html:

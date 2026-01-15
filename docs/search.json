@@ -2,15 +2,85 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello, I’m Daniel!\n\n\n\nI am a student at the Singapore Institute of Technology (SIT), interested in data, technology, and applied learning.\nThis website showcases some of my past projects, a data visualization example, and my reflection on using GenAI tools.\n\nFinal Year Project (or other project) overview.\nOne data visualization project from my student life.\nReflection on how GenAI supported the development of this webpage."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "FYP Project",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Project Overview\nI am a Temasek Polytechnic alumni and my Final Year Project explored ways to improve inventory management and overall supply chain efficiency.\nWe wanted to reduce delays, avoid stockouts, and make daily operations smoother for businesses.\n\nFocus: Practical ideas to improve inventory workflows and tracking.\nTime period: Aug 2022 – Mar 2023\nTeam: Group of 4\n\n\n\nMethodology (how we did it)\n\nData collection and research\nWe studied existing supply chain practices and gathered information from reports, sites, and interviews to understand common problems.\nChallenges of implementing solutions\nWe had to balance cost, staff training, and how easily new ideas could fit into existing systems.\nTemplate showcase room\nWe built a small “showcase room” concept to demonstrate how our proposed solutions could look and work in a real setting, using layouts and simple visuals."
+  },
+  {
+    "objectID": "Data Visualization.html#the-graph",
+    "href": "Data Visualization.html#the-graph",
+    "title": "Data Visualization",
+    "section": "The Graph",
+    "text": "The Graph"
+  },
+  {
+    "objectID": "Data Visualization.html#stockie",
+    "href": "Data Visualization.html#stockie",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "You can view the full code for this visualization on my GitHub repository."
+  },
+  {
+    "objectID": "Data Visualization.html",
+    "href": "Data Visualization.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "This page presents one quantitative data visualization I created during my studies.\n\n\nYou can view the full code for this visualization on my GitHub repository.\n\n\n\n\n\nThe top panel tracks my total number of trades, realised profit and loss, and win rate over the semester.\nThe line charts show daily price movements and indicators for different stocks.\nThe bottom panel visualizes my buy and sell points, which helped me reflect on my trading decisions."
+  },
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "For this website, I used GenAI tools such as Perplexity to guide me through the Quarto setup and to fix issues with the navbar, YAML, and images. They helped me find the right syntax more quickly and suggested clearer ways to structure each page."
+  },
+  {
+    "objectID": "Data-Visualization.html",
+    "href": "Data-Visualization.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "This page presents one quantitative data visualization I created during my studies.\n\n\nYou can view the full code for this visualization on my GitHub repository.\n My group and I created a stock visualization web app:\n\nThe top panel tracks my total number of trades, realised profit and loss, and win rate over the semester.\nThe line charts show daily price movements and indicators for different stocks.\nThe bottom panel visualizes my buy and sell points, which helped me reflect on my trading decisions."
+  },
+  {
+    "objectID": "Data-Visualization.html#stockie",
+    "href": "Data-Visualization.html#stockie",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "You can view the full code for this visualization on my GitHub repository.\n My group and I created a stock visualization web app:\n\nThe top panel tracks my total number of trades, realised profit and loss, and win rate over the semester.\nThe line charts show daily price movements and indicators for different stocks.\nThe bottom panel visualizes my buy and sell points, which helped me reflect on my trading decisions."
+  },
+  {
+    "objectID": "Data Visualization.html#my-group-and-i-created-a-stock-visualization-web-app",
+    "href": "Data Visualization.html#my-group-and-i-created-a-stock-visualization-web-app",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "The top panel tracks my total number of trades, realised profit and loss, and win rate over the semester.\nThe line charts show daily price movements and indicators for different stocks.\nThe bottom panel visualizes my buy and sell points, which helped me reflect on my trading decisions."
+  },
+  {
+    "objectID": "Reflection.html#how-i-used-genai",
+    "href": "Reflection.html#how-i-used-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "For this website, I used GenAI tools such as Perplexity to guide me through the Quarto setup and to fix issues with the navbar, YAML, and images. They helped me find the right syntax more quickly and suggested clearer ways to structure each page."
+  },
+  {
+    "objectID": "Reflection.html#what-helped-me",
+    "href": "Reflection.html#what-helped-me",
+    "title": "Reflection on the use of GenAI",
+    "section": "What helped me",
+    "text": "What helped me\nThe main benefit was saving time. Instead of reading long documentation, I could ask specific questions and get targeted answers, then adapt them to my own project. This also helped me spot mistakes I might have missed on my own."
+  },
+  {
+    "objectID": "Reflection.html#what-i-learned",
+    "href": "Reflection.html#what-i-learned",
+    "title": "Reflection on the use of GenAI",
+    "section": "What I learned",
+    "text": "What I learned\nAt the same time, I realised I still had to understand what I was doing. When something did not work, I had to check the code, compare it with my files, and make my own decisions. Going forward, I expect to use GenAI in a similar way: as a quick helper for ideas and troubleshooting, while I remain responsible for the final work and my own understanding."
   }
 ]

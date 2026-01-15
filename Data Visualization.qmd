@@ -2,3 +2,22 @@
 title: "Data Visualization"
 ---
 
+# A Visualization project I made together with my Group mate
+
+This page presents one **quantitative data visualization** I created during my studies.
+
+## Stockie
+
+You can view the full code for this visualization on my
+[GitHub repository](https://github.com/Hexteris/Stock-Analysis-Y1T1).
+
+
+![](img/Datavis.png){width=90%}
+    
+    
+## My group and I created a stock visualization web app:
+  
+- The top panel tracks my total number of trades, realised profit and loss, and win rate over the semester.
+- The line charts show daily price movements and indicators for different stocks.
+- The bottom panel visualizes my buy and sell points, which helped me reflect on my trading decisions.
+

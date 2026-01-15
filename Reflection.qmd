@@ -1,0 +1,15 @@
+---
+title: "Reflection on the use of GenAI"
+---
+
+## How I used GenAI
+
+For this website, I used GenAI tools such as Perplexity to guide me through the Quarto setup and to fix issues with the navbar, YAML, and images. They helped me find the right syntax more quickly and suggested clearer ways to structure each page.
+
+## What helped me
+
+The main benefit was saving time. Instead of reading long documentation, I could ask specific questions and get targeted answers, then adapt them to my own project. This also helped me spot mistakes I might have missed on my own.
+
+## What I learned
+
+At the same time, I realised I still had to understand what I was doing. When something did not work, I had to check the code, compare it with my files, and make my own decisions. Going forward, I expect to use GenAI in a similar way: as a quick helper for ideas and troubleshooting, while I remain responsible for the final work and my own understanding.

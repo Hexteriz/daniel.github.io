@@ -1,9 +1,23 @@
 ---
-title: "About"
+title: "FYP Project"
 ---
 
-About this site
+# Project Overview
 
-```{r}
-1 + 1
-```
+I am a Temasek Polytechnic alumni and my Final Year Project explored ways to improve inventory management and overall supply chain efficiency.  
+We wanted to reduce delays, avoid stockouts, and make daily operations smoother for businesses.
+
+- Focus: Practical ideas to improve inventory workflows and tracking.
+- Time period: Aug 2022 – Mar 2023
+- Team: Group of 4
+
+# Methodology (how we did it)
+
+1. **Data collection and research**  
+   We studied existing supply chain practices and gathered information from reports, sites, and interviews to understand common problems.
+
+2. **Challenges of implementing solutions**  
+   We had to balance cost, staff training, and how easily new ideas could fit into existing systems.
+
+3. **Template showcase room**  
+   We built a small “showcase room” concept to demonstrate how our proposed solutions could look and work in a real setting, using layouts and simple visuals.
